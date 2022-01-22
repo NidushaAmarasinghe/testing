@@ -1,1 +1,1 @@
-worker: python3 NidushaTesting.py
+worker: python3 Nidushaofficialbot.py
